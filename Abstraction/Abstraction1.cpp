@@ -4,9 +4,9 @@ class abstract{
 	private:
 		int a,b;
 	public:
-//		void set(int x,int y){
+//;		void set(int x,int y){
 //			a=x;
-//			b=y;
+//			b=y
 //		}
 void set(int a,int b){
 	this->a=a;
