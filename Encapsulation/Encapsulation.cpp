@@ -12,7 +12,7 @@ class Area{
 		}
 		void calculate(){
 			a=l*b;
-		}
+		}    
 		void display(){
 			cout<<"Area of Rectangle is:"<<a;
 		}
