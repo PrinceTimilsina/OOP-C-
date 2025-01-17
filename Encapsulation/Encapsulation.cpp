@@ -2,7 +2,7 @@
 //Simple C++ Program to find area of rectangle
 #include<iostream>
 using namespace std;
-class Area{
+class Area{  
 	private:
 		int l,b,a;
 	public:
