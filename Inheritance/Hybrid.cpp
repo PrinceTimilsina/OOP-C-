@@ -2,7 +2,7 @@
 //Here class E is derived from class C and class A,and class D is derived from Class A and class B.
 #include<iostream>
 using namespace std;
-class A{
+class A{ 
     public:
  int showclassA(){
      cout<<"I am Class A"<<endl; 
