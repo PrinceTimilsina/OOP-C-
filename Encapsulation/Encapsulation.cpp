@@ -4,7 +4,7 @@
 using namespace std;
 class Area{  
 	private:
-		int l,b,a;
+		int l,b,a; 
 	public:
 		void getdata(int l,int b){
 			this->l=l;
