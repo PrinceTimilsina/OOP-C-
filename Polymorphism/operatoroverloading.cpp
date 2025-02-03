@@ -15,14 +15,13 @@ class Sum{
         cc.a=a+bb.a;
         return cc;
     }
-
 };
 
-int main(){
-    Sum aa,bb,cc;
-    aa.getData();
-    bb.getData();
-    cc = aa+bb;
-    cout<<"Sum is:"<<cc.a<<endl;
-    return 0;
-}
+// int main(){
+//     Sum aa,bb,cc;
+//     aa.getData();
+//     bb.getData();
+//     cc = aa+bb;
+//     cout<<"Sum is:"<<cc.a<<endl;
+//     return 0;
+// }
