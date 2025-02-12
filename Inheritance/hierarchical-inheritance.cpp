@@ -20,7 +20,7 @@ class area:public Rect{
     }
 };
 
-class perimeter:public Rect{
+class perimeter:public Rect{ 
     public:
     int calculateperimeter(){
      p=2*(l+b);
