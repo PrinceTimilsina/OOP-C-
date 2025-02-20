@@ -5,11 +5,13 @@ int main(){
 	cout<<"Enter a number";
 	cin>>n;
 	c=n;
+	
 	while(n>0){
 		r=n%10;
 		s=(r*r*r)+s;
 		n=n/10;
-	}
+	} 
+	
 	if(c==s){
 		cout<<"The number is armstrong";
 	}
