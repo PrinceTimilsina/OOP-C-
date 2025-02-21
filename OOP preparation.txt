@@ -1,0 +1,14 @@
+Programs for OOP preparation:
+
+1.Factorial
+2.Armstrong
+3.Palindrome
+4.Prime or Composite
+5. Fibonacci
+6. ATM
+7. Constructor
+8. Diamond Problem 
+9. Array
+10. String
+11. Operator overloading
+12. Function overloading
