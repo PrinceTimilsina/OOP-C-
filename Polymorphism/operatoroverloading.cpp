@@ -2,9 +2,8 @@
 #include<iostream>
 using namespace std;
 class Sum{
-    private:
+	    public:
     int a;
-    public:
     int getData(){
         cout<<"Enter a number"<<endl;
         cin>>a;
@@ -17,11 +16,11 @@ class Sum{
     }
 };
 
-// int main(){
-//     Sum aa,bb,cc;
-//     aa.getData();
-//     bb.getData();
-//     cc = aa+bb;
-//     cout<<"Sum is:"<<cc.a<<endl;
-//     return 0;
-// }
+ int main(){ 
+   Sum aa,bb,cc; 
+    aa.getData();
+    bb.getData();
+    cc = aa+bb;
+    cout<<"Sum is:"<<cc.a<<endl;
+    return 0;
+}

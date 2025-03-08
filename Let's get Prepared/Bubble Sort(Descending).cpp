@@ -14,7 +14,7 @@ class ascending{
     int sort(){
         for(i=0;i<10;i++){
             for(j=0;j<10-1;j++){
-                if(n[j]>n[j+1]){
+                if(n[j]<n[j+1]){
                     temp=n[j];
                     n[j]=n[j+1];
                     n[j+1]=temp;
@@ -24,7 +24,7 @@ class ascending{
         return 0;
     }
 int display(){
-       cout<<"Data in ascending order:";
+       cout<<"Data in descending order:";
        for(i=0;i<10;i++){
         cout<<n[i]<<"  "<<endl;
            }
