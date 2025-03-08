@@ -1,5 +1,5 @@
 //Write a program that demonstrates the use of access specifiers to achieve encapsulation.
-//Simple C++ Program to find area of rectangle
+//Simple C++ Program to find area of rectangle  
 #include<iostream>
 using namespace std;
 class Area{  
