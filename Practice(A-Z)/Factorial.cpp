@@ -14,7 +14,7 @@ int main(){
 
 // #include<iostream>
 // using namespace std;
-// int main(){
+// int main(){  
 //     int n,f=0,i;
 //     cout<<"Enter a number"; //5
 //     cin>>n;    //5 
