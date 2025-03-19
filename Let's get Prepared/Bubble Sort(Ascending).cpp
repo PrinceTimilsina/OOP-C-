@@ -3,7 +3,7 @@ using namespace std;
 class ascending{
     private:
      int n[10],i,j,temp;
-    public:
+  public:
     int getdata(){
         cout<<"Enter 10 integers:";
         for(i=0;i<10;i++){

@@ -6,7 +6,7 @@ int main(){
 	cout<<"Enter a number"<<endl;
 	cin>>n;
 	for(int i=1;i<=n;i++){
-		f=f*i;
+		f=f*i; //main logic
 	}
 	cout<<"Factorial of entered number is:"<<f<<endl;
 	return 0;
@@ -14,7 +14,7 @@ int main(){
 
 // #include<iostream>
 // using namespace std;
-// int main(){
+// int main(){  
 //     int n,f=0,i;
 //     cout<<"Enter a number"; //5
 //     cin>>n;    //5 

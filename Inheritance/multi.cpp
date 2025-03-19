@@ -12,7 +12,7 @@ class Rect1{
 };
 
 class Rect2{
-     public:
+     public:   
 		int l2,b2,a2;
 		int setdata1(int l2,int b2){
 			this->l2=l2;

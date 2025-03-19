@@ -7,7 +7,7 @@ class Sum{
     int getData(){
         cout<<"Enter a number"<<endl;
         cin>>a;
-        return 0;
+        return 0;   
     }
     Sum operator +(Sum bb){
         Sum cc;
