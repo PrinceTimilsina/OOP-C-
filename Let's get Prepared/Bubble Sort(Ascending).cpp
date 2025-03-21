@@ -5,7 +5,7 @@ class ascending{
      int n[10],i,j,temp;
   public:
     int getdata(){
-        cout<<"Enter 10 integers:";
+        cout<<"Enter 10 integers:"; 
         for(i=0;i<10;i++){
             cin>>n[i];
         }
