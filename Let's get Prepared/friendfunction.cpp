@@ -4,8 +4,9 @@ using namespace std;
 class Sample {
     int num;
 
-public:
-    void setData(int n) {
+public: 
+    void setData(int n) 
+	{
         num = n;
     }
 
