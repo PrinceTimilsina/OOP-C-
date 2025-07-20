@@ -1,3 +1,4 @@
+//Abstraction Example Program-1s
 #include<iostream>
 using namespace std;
 class abstract{
