@@ -28,7 +28,7 @@ int display(){
        for(i=0;i<10;i++){
         cout<<n[i]<<"  "<<endl;
            }
-           return 0;
+           return 0; 
 }
 };
 
