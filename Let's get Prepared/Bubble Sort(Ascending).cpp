@@ -26,7 +26,7 @@ class ascending{
 int display(){
        cout<<"Data in ascending order:";
        for(i=0;i<10;i++){
-        cout<<n[i]<<"  "<<endl;
+        cout<<n[i]<<"  "<<endl; 
            }
            return 0; 
 }

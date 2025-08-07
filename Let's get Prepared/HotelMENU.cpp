@@ -10,7 +10,7 @@ int main() {
     cout << "4. Pizza" << endl;
     cout << "What would you like to get? Pick (1-4)" << endl; 
     cin >> ch;
-    cout << "Enter Quantity: ";
+    cout << "Enter Quantity: "; 
     cin >> qty;
 
     switch(ch) {
@@ -42,4 +42,4 @@ int main() {
     cout<<"Thankyou For Arriving Here!";
 
     return 0;
-}
+} 
